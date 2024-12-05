@@ -1,4 +1,6 @@
-﻿// https://jsayers.dev/c-sharp-sdl-tutorial-part-1-setup/
+﻿// SDL knowledge came from: https://jsayers.dev/c-sharp-sdl-tutorial-part-1-setup/
+// How to rotate 3D shapes, came from: https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/rotating-3d-shapes
+
 using SDL2;
 using Shapes3D;
 
